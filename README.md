@@ -1,3 +1,3 @@
 ![](/img/logo.jpg)
 
-![](/img/logo2.jpg)
+![](/img/logo2.png)
