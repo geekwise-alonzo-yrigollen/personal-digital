@@ -12,16 +12,25 @@
 }
 
 .bottomLobby {
-	padding: 26px;
+	padding:8px;
+	margin:0 auto;
     margin-top: 30px;
-    width: 100%;
-	background: #000;
+    width: 30%;
+    text-align:center;
+	background:#ff8c1a;
+    opacity:8;
+
 }
 
 .bottomLobby a {
-	 color: #fff;
+	color: #fff;
     font-size: 30px;
 	margin: 10px;
+	font-weight:700;
+	text-shadow: 2px 2px 2px #000;
+	
+	
+	
 }
 .lobby {
 /*	padding: 0;*/
@@ -31,8 +40,5 @@
     background-repeat: no-repeat;
 }
 img{
-    border-radius: 20px;
-}
-.name{
-    text-transform: uppercase;
+    border-radius: 2px;
 }
