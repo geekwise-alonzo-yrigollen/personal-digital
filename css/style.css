@@ -8,7 +8,8 @@
 }
 
 .social-lobby a {
-	font-size: 16px;
+	font-size: 18px;
+	
 }
 
 .bottomLobby {
@@ -21,6 +22,10 @@
     opacity:8;
 
 }
+#text-body{
+    
+    text-shadow: 5px 5px  5px #000;
+}
 
 .bottomLobby a {
 	color: #fff;
@@ -28,6 +33,7 @@
 	margin: 10px;
 	font-weight:700;
 	text-shadow: 2px 2px 2px #000;
+	opacity: 8em;
 	
 	
 	
@@ -35,10 +41,14 @@
 .lobby {
 /*	padding: 0;*/
     margin: 0;
-    background-image: url('../img/alonzo.png');
+    background-image: url('../http://imgur.com/gMlhszTimg/alonzo.png');
     background-size: cover;
     background-repeat: no-repeat;
 }
 img{
+    margin:0 auto;
+    height: auto;
+    display:block;
     border-radius: 2px;
+    transform: translateY(-15em);
 }
