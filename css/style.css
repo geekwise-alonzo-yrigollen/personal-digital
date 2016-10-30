@@ -16,16 +16,16 @@ h1{
     padding:33px;
     font-size:133px;
     text-shadow: 2px 2px 2px gray;
-    color:#fff;
+    color:rgb(255, 191, 128);
     
 }
 h2{
     
     margin:0 auto;
     padding:10px;
-    color:#fff;
+    color:ghostwhite;
     font-size:33px;
-    text-shadow: 1px 1px 1px #000;
+    text-shadow: 3px 3px 3px rgb(255, 191, 128);
     
 }
 
