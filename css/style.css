@@ -88,7 +88,7 @@ h2{
 
 #my-pic img{ 
     
-    width:18%;
+    width:28%;
     margin:0 auto;
     border-radius:235px 50px 150px 150px;
 
@@ -106,6 +106,10 @@ h2{
     padding:29px;
     text-shadow: 1px 1px 1px #fff;
     background-color:rgb(255, 191, 128);
+}
+.borders {
+  border: 5px solid blue; 
+  outline: 5px solid red;
 }
 footer{
     width:100%;
