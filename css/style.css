@@ -37,6 +37,7 @@ section article img{
 .lobby{
     
     margin:0 auto;
+    padding:33px;
     background-color:ghostwhite;
 }
 
@@ -54,7 +55,7 @@ h2{
     padding:10px;
     color:ghostwhite;
     font-size:33px;
-    text-shadow: 3px 3px 3px rgb(255, 191, 128);
+    text-shadow: 2px 2px 2px rgb(255, 191, 128);
     
 }
 
